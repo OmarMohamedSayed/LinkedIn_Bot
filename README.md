@@ -41,3 +41,6 @@ Success congrats people
 ## suggestions
 If you have any suggestions open an issue and I or a contributor will gladly do our best to implement it if it aligns with the goals of the project!
 
+
+https://user-images.githubusercontent.com/33138612/118009665-8a0f1f80-b34e-11eb-8139-d2cb0e4ceddb.mp4
+
